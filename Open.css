@@ -1,0 +1,84 @@
+body
+{
+   
+    background-image:url('R7.jpg');
+    background-repeat:no-repeat;
+    background-size:1300px 650px;
+}
+fieldset
+{
+    width:400px;
+    text-align:center;
+   
+}
+#a1,#b1
+{
+    color:rgb(22, 17, 32);
+    background:transparent;
+    border:none;
+    border-bottom:1px solid black;
+    text-align:center;
+    padding:10px;
+}
+#c
+{
+    border-radius:5px 5px 5px 5px;
+    color:black;
+    background-color:rgb(16, 241, 16);
+    width:130px;
+    font-size:bold;
+    margin:10px;
+}
+#d
+{
+    border-radius:5px 5px 5px 5px;
+    color:black;
+    background-color:rgb(236, 152, 152); 
+    width:130px;
+    font-size:bold;
+    margin:10px; 
+}
+.e
+{
+    color:rgb(232, 17, 53);   
+}
+img
+{
+    background:transparent;
+    width:100px;
+}
+h1
+{
+    color:rgb(255, 77, 0);
+}
+footer
+{
+    color:rgb(181, 26, 26);
+    background-color:rgb(247, 243, 243);
+   padding:none;
+}
+#c,#d
+{
+    
+    font-size:15px;
+}
+.A
+{
+    padding:10px;
+    font-size:20px;
+    color:rgb(54, 9, 215);
+}
+.B
+{
+    color:rgb(210, 19, 150);
+}
+header
+{
+    text-align:left;
+    background-size:20px 30px;
+} 
+.img1
+{
+border-radius:50%;
+}
+

@@ -1,0 +1,75 @@
+body
+{
+background-image:url('R9.jpg');
+background-repeat:no-repeat;
+background-size:1400px 650px;
+
+}
+.color
+{
+    background:transparent;
+}
+ul
+{
+    display:flex;
+    list-style-type:none;
+}
+li,a
+{
+    margin-right:20px;
+    text-decoration: none;
+    color:rgb(168, 14, 14);
+    font-size:25px;
+    padding:2px;  
+}
+a:hover
+{
+color:black;
+background-color:rgb(236, 194, 201);
+}
+li
+{
+    border-right:0px solid black;
+}
+img
+{
+    width:40px;
+}
+p
+{
+    color:rgba(16, 7, 1, 0.886);
+}
+h1,ul
+{
+    color:rgb(220, 20, 157);
+}
+ins
+{
+    font-size:25px;
+}
+footer
+{
+    background-color:gray;
+}
+.footer1
+{
+    font-size:15px;
+}
+.use,.d
+{
+    display:flex;
+}
+h5
+{
+    color:chocolate;
+}
+h4
+{
+    color:rgb(56, 13, 196);
+}
+#drop1
+{
+    background:transparent;
+    border:none;
+    
+}

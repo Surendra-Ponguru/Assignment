@@ -1,0 +1,79 @@
+<html>
+    <head>
+        <title>Create Account</title>
+        <link rel="icon" href="kk5.png"></link>
+        <link rel="stylesheet" href="CreateAccount.css"></link>
+        <script src="CreateAccount.js"></script>
+    </head>
+    <body>
+        <header>
+            <img src="kk4.jpg" alt="Name">
+            </header>
+        <form>
+        <center>
+            <h1><ins>Create Account</ins></h1>
+            <fieldset>
+                <legend><img id="a2" src="create1.jpg"></legend>
+                <table>
+                    
+                    <tr>
+                        <td><label> Enter Full Name:</label></td>
+                        <td><input  id="A" type="text" placeholder="Name" required></td>
+                    </tr>
+                    <tr>
+                        <td><label> Enter Mobile Number:</label></td>
+                        <td><input id="B" type="number" placeholder="Number" required></td>
+                    </tr>
+                    <tr>
+                        <td><label> Enter Email :</label></td>
+                        <td><input class="C" type="email" placeholder="Mail" required></input></td>
+                    </tr>
+                    <tr>
+                        <td><label>Enter New Password :</label></td>
+                        <td><input class="D" type="password" placeholder="Password" required></input></td>
+                    </tr>
+                    <tr>
+                        <td><label>Re-Enter Password :</label></td>
+                        <td><input type="password" required</td><br>
+                        <label style="color:red">[Must 8 characters]</label>
+                    </tr>
+                    <tr>
+                        <td><label>Select Country :</label></td>
+                        <td><input list="name">
+                        <dataList id="name">
+                            <option>India</option>
+                            <option>USA</option>
+                            <option>Uk</option>
+                            <option>Srilanka</option>
+                            <option>Pakistan</option>
+                            <option>Bangladesh</option>
+                            <option>Nepal</option>
+                            <option>China</option>
+                            <option>Japan</option>
+                            <option>Australia</option>
+                        </dataList></td>
+                    </tr>
+                    <tr>
+                        <td><label>Enter Security Question :</label></td>
+                        <td><select required>
+                                  <option> What is your Nick Name ?</option>
+                                  <option> What is your pet Name ?</option>
+                                  <option> What is your 1st School Name ?</option>
+                                  <option> What is your Mother Name?</option>
+                                  <option> What is your Best Freind Name ?</option>
+                        </select></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><input type="text"></td>
+                    </tr>
+                    <tr>
+                        <td><input  id="1" type="Submit" onclick="create()"></td>
+                    </tr>
+                </table>
+            </fieldset>
+        </center>
+    </form>
+    </body>
+
+</html>

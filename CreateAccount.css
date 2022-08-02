@@ -1,0 +1,35 @@
+body
+{
+    background-image:url('k.jpg');
+    background-color:azure;
+   
+}
+fieldset
+{
+    
+    background-repeat:no-repeat;
+    width:400px;
+}
+
+ins
+{
+    text-decoration:2px solid underline blue;
+}
+input
+{
+color:black;
+}
+#1
+{
+   background-color:blue;
+    width:50px;
+}
+img
+{
+   text-align:right;
+   width:50px;
+}
+#a2
+{
+    background-size:30px 20px;
+}

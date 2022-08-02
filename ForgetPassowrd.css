@@ -1,0 +1,33 @@
+body
+{
+    background-image:url('k.jpg');
+}
+fieldset
+{
+width:350px;
+}
+h2
+{
+    color:rgb(230, 20, 45);
+}
+ins
+{
+    text-decoration:2px solid underline blue;
+}
+label
+{
+    color:rgb(122, 69, 44);
+}
+.a1
+{
+    border:none;
+    border-bottom:1px solid black;
+}
+img
+{
+    width:50px;
+}
+header
+{
+    text-align:right;
+}
